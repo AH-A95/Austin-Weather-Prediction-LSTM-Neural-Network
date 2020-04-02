@@ -1,3 +1,3 @@
 # Austin-Weather-Prediction-LSTM-Neural-Network
 
-Predicting Austin's weather for the next day using only the currents days weather, done using an LSTM-NN.
+ This is a univariate time series model that predicts one day into the future. 
